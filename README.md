@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **getting my Full Stack Certification from TripleTen**
 
-- 🌱 I’m currently learning **Object-Oriented Programing in JS**
+- 🌱 I’m currently learning **React.js**
 
 - ⚡ Fun fact **My favorite food is Cauliflower**
 

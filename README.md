@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <h3 align="center">An aspiring Software Engineer</h3>
 
 
-- 🔭 I’m currently working on **getting my Full Stack Certification from TripleTen**
+- 🔭 **I've just received my Full Stack Certification from TripleTen**
 
 - 🌱 I’m currently refining my skills in **React.js**
 

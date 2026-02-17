@@ -9,12 +9,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 <h1 align="center">Hi 👋, my name it Ken Garcia Ortiz</h1>
-<h3 align="center">An aspiring Software Engineer</h3>
+<h3 align="center">A Full-Stack Software Engineer</h3>
 
 
-- 🔭 **I've just received my Full Stack Certification from TripleTen**
+- 🔭 **I am certified by TripleTen with a Full-Stack certification**
 
-- 🌱 I’m currently refining my skills in **React.js**
+- 🌱 I’m currently looking to refine my skills by using **Tailwind & Typescript**
 
 - ⚡ Fun fact **My favorite food is Cauliflower**
 

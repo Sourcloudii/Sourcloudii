@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-<h1 align="center">Hi 👋, my name it Ken Garcia Ortiz</h1>
+<h1 align="center">Hi 👋, my name is Ken Garcia Ortiz</h1>
 <h3 align="center">A Full-Stack Software Engineer</h3>
 
 

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 **I am certified by TripleTen with a Full-Stack certification**
 
-- 🌱 I’m currently looking to refine my skills by using **Tailwind & Typescript**
+- 🌱 I’m currently looking to refine my skills in **Tailwind & Typescript**
 
 - ⚡ Fun fact **My favorite food is Cauliflower**
 
